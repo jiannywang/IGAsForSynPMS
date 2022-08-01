@@ -17,7 +17,7 @@ public class Experiments_IGA_SynPMS {
 		
 	}
 	/**同步并行机最小总延误时间迭代贪婪算法实验
-	 * 每运行程序依次，可以对指定数量并行机的算例进行一次实验，所以每次实验需要修改变量machQty的数值，其他参数均不变
+	 * 每运行程序一次，可以对指定数量并行机的算例进行10次实验，所以每次实验需要修改变量machQty的数值，其他参数均不变
 	 * 
 	 * */
 	public static void expriment() throws CloneNotSupportedException{
